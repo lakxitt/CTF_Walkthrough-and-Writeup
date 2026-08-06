@@ -1,4 +1,4 @@
-# Blue — TryHackMe Walkthrough
+# Blue — TryHackMe Walkthrough :
 
 > Deploy and hack into a Windows machine, leveraging common misconfiguration issues.
 
