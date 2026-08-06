@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Focus-Hash%20Cracking-orange?style=for-the-badge" />
 </p>
 
----
+
 ---
 ## Topics Covered
 
