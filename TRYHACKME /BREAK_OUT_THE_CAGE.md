@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Platform-Linux-black">
   <img src="https://img.shields.io/badge/Focus-FTP%20%7C%20Vigenere%20%7C%20Crontab%20%7C%20PrivEsc-blue">
 </p>
-
+   
 ---
 
 ## Topics Covered
