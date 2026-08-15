@@ -28,7 +28,7 @@
 | 5 | Abusing SUID/GUID — `/usr/bin/env` |
 
 ---  
-
+ 
 ## Learning Objectives
 
 By the end of this walkthrough, you will be able to:
