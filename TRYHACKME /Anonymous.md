@@ -27,7 +27,7 @@
 | 4 | Security Misconfiguration — Writable Cron Script |
 | 5 | Abusing SUID/GUID — `/usr/bin/env` |
 
----
+---  
 
 ## Learning Objectives
 
