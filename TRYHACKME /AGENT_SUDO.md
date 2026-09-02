@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Platform-Linux-black">
   <img src="https://img.shields.io/badge/Focus-Enumeration%20%7C%20Stego%20%7C%20PrivEsc-blue">
 </p>
-
+ 
 ---
 --- 
 ## 📚 Topics Covered
