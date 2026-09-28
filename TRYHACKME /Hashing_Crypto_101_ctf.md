@@ -1,7 +1,7 @@
 # Hashing — Crypto 101 — TryHackMe Walkthrough
 
 > An introduction to hashing concepts, password storage, hash recognition, and practical cracking techniques using John the Ripper and online tools.
-
+ 
 <p align="center"><a href="https://tryhackme.com/room/hashingcrypto101"><a href="https://imgbb.com/"><img src="https://i.ibb.co/qLhnDRfh/95360a659831708b18fea654cc0c417c.png" alt="95360a659831708b18fea654cc0c417c" border="0"></a>
 
 <p align="center">
