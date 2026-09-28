@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Focus-Cryptography-purple?style=for-the-badge" alt="Focus Badge">
   <img src="https://img.shields.io/badge/Focus-Password%20Cracking-orange?style=for-the-badge" alt="Focus Badge">
 </p>
-
+ 
 ---
 
 ## Topics Covered
