@@ -19,7 +19,7 @@
 ---  
 ## 📚 Topics Covered
 
-- Network Enumeration  
+- Network Enumeration   
 - Web Header Manipulation  
 - Brute Forcing (FTP)  
 - Brute Forcing (ZIP)  
